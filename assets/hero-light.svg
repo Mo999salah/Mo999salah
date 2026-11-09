@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-label="Mohamad Salah — Software Engineer, building thoughtful software for web, mobile and desktop">
-<rect width="1200" height="356" rx="18" fill="#ffffff"/>
-<rect x="1" y="1" width="1198" height="354" rx="17" fill="none" stroke="#dce3e8" stroke-width="2"/>
-<text x="52" y="57" fill="#526272" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">MOHAMAD / ENGINEERING</text>
-<circle cx="1090" cy="51" r="6" fill="#176747"/><text x="1109" y="57" text-anchor="end" fill="#526272" font-family="Arial,Helvetica,sans-serif" font-size="15">ISTANBUL</text>
-<path d="M52 83H1148" stroke="#dce3e8"/>
-<text x="48" y="175" fill="#18212c" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="79" letter-spacing="-3">Mohamad Salah<tspan fill="#176747">.</tspan></text>
-<text x="53" y="225" fill="#526272" font-family="Arial,Helvetica,sans-serif" font-weight="400" font-size="27">Software Engineer <tspan fill="#176747">/</tspan> Web · Mobile · Desktop</text>
-<path d="M52 261H1148" stroke="#dce3e8"/>
-<text x="53" y="307" fill="#526272" font-family="Arial,Helvetica,sans-serif" font-size="19">Thoughtful interfaces. Reliable systems. Useful products.</text>
-<rect x="956" y="280" width="192" height="42" rx="7" fill="#f4f7f6" stroke="#dce3e8"/>
-<text x="1052" y="307" text-anchor="middle" fill="#18212c" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600">EST. IN CODE  /  ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 450" width="1100" height="450" role="img" aria-label="Mohamad Salah, software engineer: Design. Build. Ship.">
+<rect width="1100" height="450" rx="14" fill="#f6f5f0"/>
+<rect x="1" y="1" width="1098" height="448" rx="13" fill="none" stroke="#b9c3b4" stroke-width="2"/>
+<rect x="35" y="35" width="12" height="12" rx="2" fill="#42761c"/>
+<text x="62" y="47" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#50635a" letter-spacing="2">MOHAMAD SALAH</text>
+<text x="1060" y="47" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#50635a">ENGINEERING / 2026</text>
+<path d="M36 73 H1064" stroke="#b9c3b4" stroke-width="2"/>
+<text x="34" y="182" font-family="Arial,Helvetica,sans-serif" font-size="111" font-weight="800" letter-spacing="-5" fill="#17211e">DESIGN.</text>
+<text x="34" y="291" font-family="Arial,Helvetica,sans-serif" font-size="111" font-weight="800" letter-spacing="-5" fill="#17211e">BUILD.<tspan fill="#42761c"> SHIP.</tspan></text>
+<path d="M36 327 H1064" stroke="#b9c3b4" stroke-width="2"/>
+<text x="37" y="378" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#17211e">Software for real people.</text>
+<text x="37" y="410" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#50635a">Web / Mobile / Desktop</text>
+<rect x="820" y="356" width="244" height="58" rx="6" fill="#e3e9de"/>
+<text x="942" y="390" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#17211e">01 — MAKE IT WORK</text>
 </svg>

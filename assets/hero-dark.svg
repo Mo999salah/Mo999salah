@@ -1,15 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 450" width="1100" height="450" role="img" aria-label="Mohamad Salah, software engineer: Design. Build. Ship.">
-<rect width="1100" height="450" rx="14" fill="#0b1016"/>
-<rect x="1" y="1" width="1098" height="448" rx="13" fill="none" stroke="#334039" stroke-width="2"/>
-<rect x="35" y="35" width="12" height="12" rx="2" fill="#b9f46b"/>
-<text x="62" y="47" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#a3afa9" letter-spacing="2">MOHAMAD SALAH</text>
-<text x="1060" y="47" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#a3afa9">ENGINEERING / 2026</text>
-<path d="M36 73 H1064" stroke="#334039" stroke-width="2"/>
-<text x="34" y="182" font-family="Arial,Helvetica,sans-serif" font-size="111" font-weight="800" letter-spacing="-5" fill="#f8f5eb">DESIGN.</text>
-<text x="34" y="291" font-family="Arial,Helvetica,sans-serif" font-size="111" font-weight="800" letter-spacing="-5" fill="#f8f5eb">BUILD.<tspan fill="#b9f46b"> SHIP.</tspan></text>
-<path d="M36 327 H1064" stroke="#334039" stroke-width="2"/>
-<text x="37" y="378" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#f8f5eb">Software for real people.</text>
-<text x="37" y="410" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#a3afa9">Web / Mobile / Desktop</text>
-<rect x="820" y="356" width="244" height="58" rx="6" fill="#17221d"/>
-<text x="942" y="390" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#f8f5eb">01 — MAKE IT WORK</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 400" width="1100" height="400" role="img" aria-label="Mohamad Salah — Software Engineer. Design, build, ship.">
+<rect width="1100" height="400" rx="8" fill="#0e1116"/>
+<rect x="1" y="1" width="1098" height="398" rx="7" fill="none" stroke="#353e47" stroke-width="2"/>
+<text x="54" y="62" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#9ba5ac">MOHAMAD SALAH</text>
+<text x="1048" y="62" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2" fill="#9ba5ac">SOFTWARE ENGINEER</text>
+<path d="M52 90H1048" stroke="#353e47" stroke-width="1.5"/>
+<text x="46" y="204" font-family="Arial,Helvetica,sans-serif" font-size="107" font-weight="800" letter-spacing="-6" fill="#f3f3ee">Design. Build.</text>
+<text x="46" y="309" font-family="Arial,Helvetica,sans-serif" font-size="107" font-weight="800" letter-spacing="-6" fill="#a9d19b">Ship.</text>
+<path d="M52 335H1048" stroke="#353e47" stroke-width="1.5"/>
+<text x="54" y="371" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#9ba5ac">Web / Mobile / Desktop</text>
+<text x="1046" y="371" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#9ba5ac">Istanbul, Türkiye</text>
 </svg>

@@ -1,16 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Satr: a terminal workspace for AI coding and multilingual text">
-<rect width="1100" height="310" rx="12" fill="#121a21"/><rect x="1" y="1" width="1098" height="308" rx="11" fill="none" stroke="#3b4d52" stroke-width="2"/>
-<rect x="32" y="30" width="1036" height="250" rx="9" fill="#0b1117" stroke="#34464b"/>
-<rect x="33" y="31" width="1034" height="38" rx="8" fill="#202c31"/>
-<circle cx="56" cy="50" r="6" fill="#e8988d"/><circle cx="78" cy="50" r="6" fill="#e7be80"/><circle cx="100" cy="50" r="6" fill="#a4d7a0"/>
-<text x="140" y="56" font-family="monospace" font-size="17" fill="#c8d4d4">satr / workspace</text>
-<path d="M280 69V279" stroke="#34464b"/>
-<text x="64" y="109" font-family="monospace" font-size="18" fill="#a8bac0">PROJECTS</text>
-<text x="64" y="147" font-family="monospace" font-size="20" fill="#a9eb8f">▸ workspace</text>
-<text x="81" y="182" font-family="monospace" font-size="18" fill="#c8d4d4">terminal</text>
-<text x="81" y="215" font-family="monospace" font-size="18" fill="#c8d4d4">agent</text>
-<text x="319" y="114" font-family="monospace" font-size="19" fill="#a9eb8f">~/project</text>
-<text x="319" y="158" font-family="monospace" font-size="26" fill="#edf2f1">A workspace for the way you build.</text>
-<text x="319" y="202" font-family="monospace" font-size="20" fill="#9bacb0">AI coding sessions / Arabic + English / local first</text>
-<rect x="319" y="235" width="17" height="24" fill="#a9eb8f"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 275" width="1100" height="275" role="img" aria-label="Editorial feature graphic for Satr, a desktop terminal workspace for AI coding tools">
+<rect width="1100" height="275" rx="8" fill="#111820"/><rect x="1" y="1" width="1098" height="273" rx="7" fill="none" stroke="#3d4951" stroke-width="2"/>
+<text x="49" y="55" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#a1afb6">FEATURED PROJECT / 01</text>
+<path d="M48 79H1052" stroke="#3d4951"/>
+<text x="39" y="192" font-family="Arial,Helvetica,sans-serif" font-size="126" font-weight="800" letter-spacing="-6" fill="#f3f6f4">SATR<tspan fill="#a9d19b">.</tspan></text>
+<text x="1051" y="165" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#eff3f0">Your projects.</text>
+<text x="1051" y="202" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#eff3f0">Your terminal.</text>
+<path d="M48 228H1052" stroke="#3d4951"/>
+<text x="50" y="254" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#a1afb6">AI CODING WORKSPACES</text>
+<text x="1050" y="254" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#a1afb6">ARABIC + ENGLISH</text>
 </svg>
